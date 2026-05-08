@@ -60,7 +60,7 @@ const Layout = ({ children }) => {
             <span className="text-secondary">© {new Date().getFullYear()} Pravin Kumar. All rights reserved.</span>
             <div className="footer-socials">
               <a href="https://github.com/mpkumar04" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="GitHub"><Github size={18} /></a>
-              <a href="https://www.linkedin.com/in/pravin-kumar-3781b4280" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="LinkedIn"><Linkedin size={18} /></a>
+              <a href="https://www.linkedin.com/in/pravin94" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="LinkedIn"><Linkedin size={18} /></a>
               <a href="https://www.instagram.com/im.prxvin?igsh=YzM2dm80azk1OTF5&utm_source=qr" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="Instagram"><Instagram size={18} /></a>
             </div>
           </div>
