@@ -26,7 +26,7 @@ const Hero = () => {
           </p>
 
           <div className="hero-actions">
-            <a href="/PravinKumar_CV.pdf" download="PravinKumar_CV.pdf" className="btn-primary">
+            <a href="PravinKumar_CV.pdf" download="PravinKumar_CV.pdf" className="btn-primary">
               Download CV
             </a>
 
